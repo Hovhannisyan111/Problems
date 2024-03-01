@@ -15,7 +15,8 @@
 #def my_math(x,y,operation):
 #    oper = {
 #        "gumarum": lambda x,y: x+y,
-#        "hanum": lambda x,y: x-y,        "bazmapatkum": lambda x,y: x*y,
+#        "hanum": lambda x,y: x-y,
+#        "bazmapatkum": lambda x,y: x*y,
 #        "bajanum": lambda x,y: x//y
 #    } 
 #
@@ -103,4 +104,10 @@
 #    end = mstr[-n -1]
 #    return start,end
 #print(my(input("Enter: "),int(input("Enter a nuumber: "))))
+
+
+
+
+
+
 
