@@ -92,7 +92,7 @@ def play():
         if winner:
             print_board(board)
             if mode == 1 and turn == "X":
-                print("\nPlayer 1 wins!")
+                print("\nYou win!")
             elif mode == 1  and turn == "O":
                 print("\nComputer wins!")
             elif mode == 2 and turn == "X":
